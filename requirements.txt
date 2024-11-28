@@ -1,0 +1,11 @@
+torch==2.4.0+cpu
+torchaudio==2.4.0+cpu
+transformers==4.45.1
+datasets==3.0.1
+sentencepiece==0.2.0
+jiwer==3.0.5
+librosa
+numpy
+scipy
+requests
+prettytable
